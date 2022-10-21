@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on a machine learning project on supervised learning methods (Decision Trees, Naive Bayes, and Suppeort Vector Machines) using wine datasets. 
+- 🌱 I’m currently learning statistical learning, machine learning, chemical process synthesis, biochemical separations, applied analysis, and biological assays! 
+
+
 
 <!--
 **sakw150/sakw150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
