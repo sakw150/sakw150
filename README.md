@@ -1,6 +1,6 @@
 ### HELLO! 👋
 - 😄 Pronouns: He/Him/His
-- 🔭 I’m currently working on a machine learning project on supervised learning methods (Decision Trees, Naive Bayes, and Suppeort Vector Machines) and artificial neural networks(Feed Foward and Backpropagation) using wine datasets.
+- 🔭 I’m currently working on a machine learning project on supervised learning methods (Decision Trees, Naive Bayes, and Support Vector Machines) and artificial neural networks(Feed Foward and Backpropagation) using wine datasets.
 - 🌱 I’m currently learning statistical learning, machine learning, chemical process synthesis, biochemical separations, applied analysis, and biological assays! 
 
 
