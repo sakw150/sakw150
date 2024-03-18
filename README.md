@@ -1,6 +1,5 @@
 ### HELLO! 👋
 - 😄 Pronouns: He/Him/His
-- 🔭 I’m currently working on my MS thesis on non Gaussian distributions and Graphical Models.  
 - 🌱 I’m currently learning Probabilistic Graphical Models. 
 - 📫 How to reach me: samkwon150@gmail.com 
 
